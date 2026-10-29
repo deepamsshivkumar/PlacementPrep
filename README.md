@@ -13,8 +13,7 @@ The website provides basic aptitude questions, coding practice topics, a study p
 ✨ Features
 
 - 🧠 Aptitude Test: Practise 10 basic aptitude questions and calculate your score.
-- 💻 Coding Practice: Explore beginner-level programming problems.
-- 📝 Study Planner: Add study tasks to a list.
+- 📝 Study Planner: Add study task of a list.
 - 📊 Progress Tracking: View the number of questions attempted and correct answers.
 - 🎨 Simple Design: Clean layout with styled buttons, cards, and navigation.
 
